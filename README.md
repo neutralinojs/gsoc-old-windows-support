@@ -39,4 +39,3 @@ This project aims to investigate and document the challenges and solutions for m
 ## Contributing
 
 Contributions to this research project are welcome. Please read the [CONTRIBUTING.md](CONTRIBUTING.md) file (I'll add this file later) for guidelines on how to contribute.
-
