@@ -1,5 +1,5 @@
 # gsoc-old-windows-support
-Researching the possibility of adding Windows 8, 7, Vista and XP support for Neutralinojs
+Researching the possibility of adding Windows XP, 7, Vista, and 8 support for Neutralinojs.
 
 ## Table of Contents
 
@@ -38,4 +38,4 @@ This project aims to investigate and document the challenges and solutions for m
 
 ## Contributing
 
-Contributions to this research project are welcome. Please read the [CONTRIBUTING.md](CONTRIBUTING.md) file (I'll add this file later) for guidelines on how to contribute.
+Contributions to this research project are welcome. Please discuss your planned contributions via the [Neutralinojs Discord server](https://discord.gg/cybpp4guTJ).
